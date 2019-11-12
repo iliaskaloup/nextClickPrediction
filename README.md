@@ -7,6 +7,6 @@ Products' cluster recommendation using deep learning techniques
 α) RecSys:
 b) UCI:
 γ) pharm24
-δ) pharm24 by clusters
+δ) pharm24 by clusters.
 Επίσης υπάρχει το αρχείο που υλοποιεί το clustering των προϊόντων,
 καθώς και τα αρχεία που αποτελούν τα εκπαιδευμένα μοντέλα.
